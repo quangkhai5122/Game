@@ -1,0 +1,17 @@
+﻿  bullet.cpp
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\bullet.cpp(65,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\bullet.cpp(66,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  player_skill_e.cpp
+  player_skill_q.cpp
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(185,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(185,32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(186,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(186,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(250,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(251,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(262,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(263,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(273,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\player_skill_q.cpp(274,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  MyFirstGame.vcxproj -> C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\x64\Debug\MyFirstGame.exe
