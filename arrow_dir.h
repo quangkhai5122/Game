@@ -4,7 +4,7 @@
 class ArrowDirect
 {
 public:
-    int dx, dy;
+    int Dx, Dy;
 
     MovementComponent* movement;
     GraphicsComponent* graphics;
@@ -12,8 +12,8 @@ public:
     ArrowDirect();
     ~ArrowDirect();
     void ResetDirection(int ddx, int ddy);
-    void Update();
-    void Render();
+    void Updated();
+    void Rendered();
 private:
 };
 
