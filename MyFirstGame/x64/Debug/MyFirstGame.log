@@ -1,0 +1,23 @@
+﻿  monster_skeleton.cpp
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(127,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(128,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(133,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(134,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(146,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(147,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(197,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(198,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(204,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(205,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  map.cpp
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\map.cpp(31,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\map.cpp(31,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\map.cpp(56,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\map.cpp(57,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\map.cpp(72,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\map.cpp(73,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\map.cpp(259,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\map.cpp(260,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(160,1): error C4700: uninitialized local variable 'X_ti' used
+C:\Users\Thu Hien Le\Desktop\Mygame\MyFirstGame\monster_skeleton.cpp(161,1): error C4700: uninitialized local variable 'Y_ti' used
