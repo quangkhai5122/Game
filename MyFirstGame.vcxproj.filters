@@ -18,145 +18,148 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="boss.cpp">
+    <ClCompile Include="boss_guide.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="arrow_direction.cpp">
+    <ClCompile Include="bullet_list.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="boss_guider.cpp">
+    <ClCompile Include="monster_bat.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="bullet.cpp">
+    <ClCompile Include="monster_generator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="enemy_bat.cpp">
+    <ClCompile Include="monster_health_bar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="enemy_generator.cpp">
+    <ClCompile Include="monster_skeleton.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="enemy_health_bar.cpp">
+    <ClCompile Include="fire_manager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="enemy_skeleton.cpp">
+    <ClCompile Include="game_func.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="fire_tile.cpp">
+    <ClCompile Include="level_component.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="game.cpp">
+    <ClCompile Include="perli_noise.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="level_manager.cpp">
+    <ClCompile Include="knight_manager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="perlin_noise.cpp">
+    <ClCompile Include="knight_skill_e.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="player_manager.cpp">
+    <ClCompile Include="knight_skill_q.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="player_skill_e.cpp">
+    <ClCompile Include="knight_stats_bar.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="player_skill_q.cpp">
+    <ClCompile Include="shoot.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="player_stats_bar.cpp">
+    <ClCompile Include="mixsound_manager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="shooter.cpp">
+    <ClCompile Include="graphics_component.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sound_manager.cpp">
+    <ClCompile Include="texturer_manager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="sprite_component.cpp">
+    <ClCompile Include="movement_component.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="texture_manager.cpp">
+    <ClCompile Include="map.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="transform_component.cpp">
+    <ClCompile Include="black_boss.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="world_map.cpp">
+    <ClCompile Include="arrow_directon.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="animation.h">
+    <ClInclude Include="bullet_list.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="arrow_direction.h">
+    <ClInclude Include="fire_manager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="boss.h">
+    <ClInclude Include="game_func.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="boss_guider.h">
+    <ClInclude Include="level_component.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="bullet.h">
+    <ClInclude Include="perli_noise.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="enemy_bat.h">
+    <ClInclude Include="knight_manager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="enemy_generator.h">
+    <ClInclude Include="knight_skill_e.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="enemy_health_bar.h">
+    <ClInclude Include="knight_skill_q.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="enemy_skeleton.h">
+    <ClInclude Include="knight_stats_bar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="fire_tile.h">
+    <ClInclude Include="pointOxy.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="game.h">
+    <ClInclude Include="shoot.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="level_manager.h">
+    <ClInclude Include="mixsound_manager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="perlin_noise.h">
+    <ClInclude Include="graphics_component.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="player_manager.h">
+    <ClInclude Include="texturer_manager.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="player_skill_e.h">
+    <ClInclude Include="movement_component.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="player_skill_q.h">
+    <ClInclude Include="map.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="player_stats_bar.h">
+    <ClInclude Include="anima.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="point_2d.h">
+    <ClInclude Include="arrow_dir.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="shooter.h">
+    <ClInclude Include="black_boss.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="sound_manager.h">
+    <ClInclude Include="boss_guide.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="sprite_component.h">
+    <ClInclude Include="monster_bat.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="texture_manager.h">
+    <ClInclude Include="monster_skeleton.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="transform_component.h">
+    <ClInclude Include="monster_health_bar.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="world_map.h">
+    <ClInclude Include="monster_generator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
   </ItemGroup>
 </Project>
